@@ -1,0 +1,8 @@
+{"name":"Assisi","description":"Pavasaris Assisyje","path":"foto\/assisi.JPG"}
+{"name":"Italija","description":"Italijos upelis","path":"foto\/italija.JPG"}
+{"name":"Praha","description":"Prahos statyniai","path":"foto\/praha.JPG"}
+{"name":"San Marinas","description":"San Marino gamta","path":"foto\/sanmarinas.JPG"}
+{"name":"Venecija","description":"Vandens srautai","path":"foto\/venecija.JPG"}
+{"name":"Viena","description":"Nuostabusis senamiestis","path":"foto\/viena.JPG"}
+{"name":"Izraelis","description":"Dykumos vakare","path":"foto\/DSC00286.JPG"}
+{"name":"Florida","description":"Nuostabusis krantas","path":"foto\/IMG_0060.JPEG"}
